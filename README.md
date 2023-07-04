@@ -12,3 +12,9 @@ helpful links:
 
 [Steel/Metal Pokemon](https://limitlesstcg.com/cards?q=type%3Apokemon+type%3Asteel&show=all&display=grid&sort=set&cpp=default)
 
+[Grass Pokemon](https://limitlesstcg.com/cards?q=type%3Apokemon+type%3Agrass&show=all&display=grid&sort=set&cpp=default)
+
+[Fire Pokemon](https://limitlesstcg.com/cards?q=type%3Apokemon+type%3Afire&show=all&display=grid&sort=set&cpp=default)
+
+[Fighting Pokemon](https://limitlesstcg.com/cards?q=type%3Apokemon+type%3Afighting&show=all&display=grid&sort=set&cpp=default)
+
