@@ -7,3 +7,8 @@ helpful links:
 [Water Pokemon](https://limitlesstcg.com/cards?q=type%3Apokemon+type%3Awater&show=all&display=grid&sort=set&cpp=default)
 
 [Dragon Pokemon](https://limitlesstcg.com/cards?q=type%3Apokemon+type%3ADragon&show=all&display=grid&sort=set&cpp=default)
+
+[Colorless Pokemon](https://limitlesstcg.com/cards?q=type%3Apokemon+type%3Acolorless&show=all&display=grid&sort=set&cpp=default)
+
+[Steel/Metal Pokemon](https://limitlesstcg.com/cards?q=type%3Apokemon+type%3Asteel&show=all&display=grid&sort=set&cpp=default)
+
