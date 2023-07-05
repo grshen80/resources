@@ -18,3 +18,6 @@ helpful links:
 
 [Fighting Pokemon](https://limitlesstcg.com/cards?q=type%3Apokemon+type%3Afighting&show=all&display=grid&sort=set&cpp=default)
 
+[Lightning Pokemon](https://limitlesstcg.com/cards?q=type%3Apokemon+type%3Alightning&show=all&display=grid&sort=set&cpp=default)
+
+
